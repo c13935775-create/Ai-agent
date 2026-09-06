@@ -1,0 +1,9 @@
+{
+  "name": "Mera AI Agent",
+  "short_name": "AI Agent",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0d0d23",
+  "background_color": "#0d0d23",
+  "icons": [{"src": "icon.svg","sizes": "any","type": "image/svg+xml"}]
+}
